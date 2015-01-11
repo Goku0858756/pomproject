@@ -15,4 +15,9 @@ public class App
     	fun = true;
     	return fun;
     }
+    
+	public int easy(int a, int b) {
+		return a * b;
+	}
+	
 }
